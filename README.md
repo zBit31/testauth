@@ -1,4 +1,4 @@
 # testauth
 Use TESTAUTH program to elevate privileges.
 RACF and ACF2 available.
-If anyone gets me a copy of the top secret manuals I can probably make one for TSS.
+If I ever get a copy of cai.CAKOMAC0 I can probably make one for TSS.
